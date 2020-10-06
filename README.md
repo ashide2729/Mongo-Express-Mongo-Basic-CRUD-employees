@@ -5,3 +5,7 @@ The repo contains source code for the simplest basic CRUD operations application
 * npm i
 
 * nodemon run start/ npm start
+
+Example: GET http://localhost:9000/employees using POSTMAN
+
+
